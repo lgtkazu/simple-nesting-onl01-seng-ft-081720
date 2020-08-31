@@ -1,7 +1,7 @@
 def hopper
 	programmer_hash = 
  		{
-@@ -16,6 +15,7 @@ def hopper
+
         }
      }
 
